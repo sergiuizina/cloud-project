@@ -7,8 +7,11 @@ Una dintre aceste functionalitati este afisarea informatiilor despre un pokemon 
 
 # Descriere API
 1. PokéApi
+
 Acesta contine toate detaliile legate de toti pokemonii, inspirate din jocurile video. PokéApi este gratuit pentru utilizare. Singura metoda disponibila este HTTP GET si nu este necesara autentificarea pentru a accesa acest API.
 2. PokeRes BastionBot API
+
+
 Acest API l-am gasit intr-o postare pe un site de stiri legata de API-ul PokéApi. Acest API are imaginile tuturor pokemonilor existenti in PokéApi. Lucrul care a fost esential in legarea celor 2 API-uri a fost ca pokemonii din ambele au acelasi id.
 
 # Flux de date
